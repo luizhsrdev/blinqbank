@@ -1,2 +1,2 @@
 # blinqbank
-Aplicação em Flutter de uma carteira digital para transações.
+Aplicativo em Flutter de banco e carteira digital para transferências.
